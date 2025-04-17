@@ -203,6 +203,7 @@ http://localhost:8501
 - **Input Validation**: All inputs are validated for correctness & completeness.
 - **Credential Security**: All sensitive database credentials are stored in a `.env` file using `python-dotenv` & are not tracked by git.
 - **Logging**: All backend operations are logged for monitoring & debugging.
+- **Unit testing**: All backend operations are thoroughly tested using Pytest module.
 
 ---
 
